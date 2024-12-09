@@ -2,7 +2,7 @@
 
 ## **Background**
 
-![Alt Text](path/to/image.png)
+![Alt Text](Identifing-Bottleneck-genes-master-regulators-in-Alzheimer-s-Disease-RNA-seq-dataset/Bottleneck genes.jpg)
 
 ---
 

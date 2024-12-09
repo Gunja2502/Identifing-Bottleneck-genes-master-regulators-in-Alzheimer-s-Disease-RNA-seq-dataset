@@ -2,7 +2,11 @@
 
 ## **Background**
 
-![Alt Text](Identifing-Bottleneck-genes-master-regulators-in-Alzheimer-s-Disease-RNA-seq-dataset/Bottleneck genes.jpg)
+Building on the work of [Dr. Andrea Califano’s lab (Columbia University)](http://califano.c2b2.columbia.edu/cancer-systems-biology), which focuses on the bottleneck hypothesis in cancer, this project seeks to apply similar concepts to Alzheimer’s disease. The bottleneck hypothesis indicates that although different genetic events may lead to a uniform disease phenotype, their effects converge on a small set of master regulator (MR) genes that control disease-driving processes within highly connected regulatory networks. These MRs, while not necessarily mutated, act as key bottlenecks, regulating the pathways and cellular programs that maintain disease states. Identifying these bottlenecks can provide mechanistic insights into disease biology and uncover potential therapeutic vulnerabilities.
+
+Domain Selection
+- Selected Domain: Regulatory Network Construction and Analysis
+- Specific Application: Identification of Bottleneck genes (master regulators) associated with Alzheimer's Disease (AD)
 
 ---
 

@@ -94,6 +94,7 @@ Install the required R libraries:
 
 ```r
 install.packages(c("dplyr", "viper", "pheatmap", "org.Hs.eg.db", "ggplot2"))
+```
 
 ## **2. Install Tools**
 
@@ -108,6 +109,7 @@ Execute the following command in PowerShell:
 
 ```bash
 java -Xmx5G -jar aracne.jar -e "modified_file.txt" -o project --tfs "trrust_rawdata.human.txt" --pvalue 1E-8 --seed 1 --calculateThreshold
+```
 
 ## **4. Visualize Network in Cytoscape**
 

@@ -146,15 +146,16 @@ java -Xmx5G -jar aracne.jar -e "modified_file.txt" -o project --tfs "trrust_rawd
   <img src="https://github.com/Gunja2502/Identifing-Bottleneck-genes-master-regulators-in-Alzheimer-s-Disease-RNA-seq-dataset/blob/main/images/Cytoscape%20network.png" alt="Cytoscape Network" width="41%">
 </div>
 
-- Bottlenecks are proteins that have a high betweenness centrality, meaning they are network nodes that have many "shortest paths" going through them. Bottlenecks are key connector proteins that are more likely to be essential proteins. However, from the data/network we couldn't draw any conclusion as there were high number of genes in a single betweenness centrality value. 
+Bottlenecks are proteins that have a high betweenness centrality, meaning they are network nodes that have many "shortest paths" going through them. Bottlenecks are key connector proteins that are more likely to be essential proteins. However, from the data/network we couldn't draw any conclusion as there were high number of genes in a single betweenness centrality value. 
 
 ### **Protein Activity Inference**
 
-- Regulators such as **CELSR3**, **CDAN1**, and **DMPK** show potential roles in AD.
+Regulators such as **CELSR3**, **CDAN1**, and **DMPK** show potential roles in AD.
 
 ### **Heatmaps**
 <img src="https://github.com/Gunja2502/Identifing-Bottleneck-genes-master-regulators-in-Alzheimer-s-Disease-RNA-seq-dataset/blob/main/images/VIPER%20Heatmap.png" alt="Cytoscape Network" width="70%">
-- Visualizations of protein activity scores and gene expression patterns.
+
+Visualizations of protein activity scores and gene expression patterns.
 
 ---
 
